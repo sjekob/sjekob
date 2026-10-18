@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-### 🎓 3rd Year BSIT Student @ University of Nueva Caceres
+### 🎓 4th Year BSIT Student @ University of Nueva Caceres
 I am an Information Technology student focused on solving real-world problems by building scalable applications. I specialize in bridging system logic with clean, functional design.
 
 * 🚀 **Currently focusing on:** Advanced **Django** development and Full-Stack architecture.
